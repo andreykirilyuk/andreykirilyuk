@@ -7,7 +7,7 @@
 
 - :computer: View my live projects at **[andreyk.netlify.app](https://andreyk.netlify.app/)**
 
-- 💬 Ask me about **Music Of Any Kind**
+- 💬 Ask me about **Music or Dance**
 
 - 📫 How to reach me **andre.kirilyuk@gmail.com**
 
