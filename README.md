@@ -5,7 +5,7 @@
 
 - :dart: I’m currently focusing on **React**
 
-- :computer: View my live projects at [andreyk.netlify.app](andreyk.netlify.app)
+- :computer: View my live projects at **[[andreyk.netlify.app](https://andreyk.netlify.app/)]**
 
 - 💬 Ask me about **Music Of Any Kind**
 
