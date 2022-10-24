@@ -5,11 +5,11 @@
 
 - :dart: I’m currently focusing on **React**
 
-- :computer: View my live projects at **[andreyk.netlify.app](https://andreyk.netlify.app/)**
+- :computer: View my live projects at: **[andreyk.netlify.app](https://andreyk.netlify.app/)**
 
 - 💬 Ask me about **Music or Dance**
 
-- 📫 How to reach me **andre.kirilyuk@gmail.com**
+- 📫 How to reach me: **andre.kirilyuk@gmail.com**
 
 - :dog: Fun fact: I have the cutest mini bordoodle dog named **Kale**!
 
